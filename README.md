@@ -11,11 +11,11 @@ Also tells you where on earth its currently flying over
 Some of the math may be slightly out so verify stuff before relying on it
 entirely
 
-Based on some work at: github.com/simonprickett/pico-gfx-portal
+Based on some work at: [github.com/simonprickett/pico-gfx-portal](github.com/simonprickett/pico-gfx-portal)
 
 ### Geolocation 
 
-Both versions make use of geocode.maps.co which now requires an API key
+Both versions make use of [geocode.maps.co](https://geocode.maps.co) which now requires an API key
 Sign up there for a free api key to use their service. There are some
 limitations on its use so dont abuse it.
 
